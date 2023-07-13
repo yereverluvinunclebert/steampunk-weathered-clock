@@ -4,14 +4,18 @@ The steampunk weathered clock Yahoo Widget, written in Javascript and XML for th
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
+![securityClock](https://github.com/yereverluvinunclebert/steampunk-weathered-clock/assets/2788342/a23feaf6-9735-4ef7-a3ed-69f4e00e9003)
 
 This weathered steampunk widget is an attractive steampunk Yahoo widget for your desktop. 
 It is a simple clock. Functional and gorgeous at the same time. This Widget is a 
 moveable widget that you can move anywhere around the desktop as you require.
 
+![About](https://github.com/yereverluvinunclebert/steampunk-weathered-clock/assets/2788342/a5ea4ce7-db12-4317-8297-9a84129252fa)
 
 The widget can be resized - Hover the cursor over the widget. Press the CTRL key 
 and use your mousewheel up or down. The widget will resize dynamically.
+
+![steampunk-weathered-clock](https://github.com/yereverluvinunclebert/steampunk-weathered-clock/assets/2788342/adbe5e5d-9fb5-4a79-817a-82c89bf06dcc)
 
 
 All javascript widgets need an engine to function, in this case the widget uses 
