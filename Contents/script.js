@@ -24,6 +24,7 @@
     mn = time.getMinutes(),
     se = time.getSeconds();
  var vitalitycnt = 0;  
+  var widgetName = "steampunk weathered clock.widget";
 
  widget.onPreferencesChanged = function () {
   resize();
