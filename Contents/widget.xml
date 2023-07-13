@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<name>Steampunk Weathered Clock</name>
+	<version>1.0</version>
+	<identifier>74d21fd0-f78e-11e1-ac8b-0016cb8c2df4</identifier>
+	<image usage="dock" src="Resources/dock.png"/>
+	<image usage="security" src="Resources/securityClock.png"/>
+	<author name="Dean Beedell and Harry Whitfield"/>
+	<copyright>© 2012-2015 Dean Beedell and Harry Whitfield</copyright>
+	<description>A Steampunk Clock that can be made to perform any o/s command line function.</description>
+	<platform minVersion = "4.5"/>
+	<security>
+          <filesystem>full</filesystem>
+          <http>all</http>
+          <applescript>true</applescript>
+          <command>true</command>
+          <hotkey>false</hotkey>
+	</security>
+</metadata>
